@@ -1,4 +1,5 @@
 import os
+import fonctionDonnee
 a = 1
 caisse = 0
 while a == 1: #boucle infinie
