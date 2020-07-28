@@ -1,5 +1,5 @@
 import os
-import fonctionDonnee
+import fonctionDonnee.py
 a = 1
 caisse = 0
 while a == 1: #boucle infinie
