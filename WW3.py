@@ -27,5 +27,7 @@ while a == 1: #boucle infinie
     elif Popularite > 80 and Popularite <= 100:
         caisse = PIB+(exCaisse*0.2)
     str(caisse)
+    str(Popularite)
     print("vos caisse sont de " + caisse + " n'oubliez pas si ces caisses sont inférieurs à 10 milliard USD vos caisse sont en fait égale à 10 MDS")
+    print("votre popularité est égale à " + Popularite)
     os.system("pause")
