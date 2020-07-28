@@ -1,4 +1,4 @@
-def donnee();
+def donnee():
   exCaisse = int(input("quels sont vos anciennes caisses ? "))
   recettePublique = int(input("quels sont vos recette publique en % mais sans le <<%>> ?"))
   annexion = int(input("quel est le total du PIB des pays que vous avez annexé ?"))
